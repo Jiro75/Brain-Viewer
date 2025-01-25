@@ -21,7 +21,7 @@ The application streamlines neuroimaging analysis workflow while maintaining pro
 
 https://github.com/user-attachments/assets/250f04fb-285d-4701-b4fe-f8fc0a067adc
 
-## Contributers
+## 🦸‍♂️ Contributors
 - Mostafa Hany
 - Mostafa Hazem
 - Muhammad Nasser
